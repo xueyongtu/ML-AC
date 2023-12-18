@@ -6,4 +6,5 @@ Research on portfolio selection based on machine learning and asset characterist
 
 3.11号py文件基于所得的投资组合权重，计算所有策略的投资绩效，包括收益、标准差、夏普比率等多种指标。
 
-4.数据见百度云链接: https://pan.baidu.com/s/12I_HWhi0hzpr4MeGld1BhQ?pwd=64un 提取码: 64un 
+4.数据见百度云链接: https://pan.baidu.com/s/12I_HWhi0hzpr4MeGld1BhQ?pwd=64un 提取码: 64un
+将char.csv和ret_clean.csv下载后放入data文件夹
