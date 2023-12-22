@@ -1,4 +1,4 @@
-# Research on portfolio selection based on machine learning and asset characteristics (基于机器学习和资产特征的投资组合选择研究)
+# 基于机器学习和资产特征的投资组合选择研究(Research on portfolio selection based on machine learning and asset characteristics)
 
 李斌,屠雪永.基于机器学习和资产特征的投资组合选择研究[J/OL].系统工程理论与实践:1-27[2023-12-22]. http://kns.cnki.net/kcms/detail/11.2267.N.20231212.1114.002.html.
 
